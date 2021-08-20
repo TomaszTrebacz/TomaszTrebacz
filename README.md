@@ -1,7 +1,7 @@
 ### About me:
 
 - 👔 &nbsp;Junior Backend Developer,  
-- 🎓 &nbsp;3rd year engineering student at Polish-Japanese Academy of Information Technology,  
+- 🎓 &nbsp;4rd year engineering student at Polish-Japanese Academy of Information Technology,  
 - 🎲 &nbsp;just playing around (and gaining new skills) with some new frameworks, databases and languages,
 - 🌍 &nbsp;based in Warsaw, Poland.  
   <br />
